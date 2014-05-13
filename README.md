@@ -1,0 +1,2 @@
+moodle-cachestore_redis
+=======================
